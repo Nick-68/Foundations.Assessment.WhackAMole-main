@@ -1,0 +1,19 @@
+img{
+    background-color: green;
+    width: 30%;
+}
+h1{
+   display: flex;
+   justify-content: center; 
+   border-bottom: solid black 4px;
+   margin: 20px;
+}
+body{
+    background-color: green;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    /* border: solid black 3px; */
+    margin: 0px;
+}
